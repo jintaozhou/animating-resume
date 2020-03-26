@@ -23,11 +23,12 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+*
+* 你好，我是nowfitness
+* 博客创建于2020-2-2
+* 湿货多和啰哩啰嗦是本站的两大特点。
+*
+* 这是我的一份简历，请看！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -128,36 +129,38 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `nowfitness
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+程序猿、健身爱好者
+现在在青岛一所高校读大三。
 
-技能
+主修课程
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 高等数学、大学英语、离散数学
+* 思科网络技术、数据库、操作系统
+* Linux服务器搭建、动态网站开发
+* C++语言、Python语言、Java语言、PHP语言
 
-工作经历
+个人荣誉
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 2017-2018学年第一学期学院三等奖学金
+2. 2017-2018学年第二学期学院三等奖学金
+3. 2018-2019学年第二学期学院三等奖学金
+4. 大学一直参加志愿者活动，荣获“优秀志愿者”
+5. 取得CET4全国大学生英语四级考试证书，具有良好的听说读写能力 
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [bilibili](https://space.bilibili.com/292018435)
+* [我的博客](https://nowfitness.top)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 未完待续，
+ 欢迎[与我交流](https://nowfitness.top)，谢谢观看！[Inspired by] (http://strml.net/)
+
 
 `
       }
