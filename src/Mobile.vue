@@ -24,9 +24,8 @@
         fullStyle: [
           `/*
 *
-* 你好，我是nowfitness
-* 博客创建于2020-2-2
-* 湿货多和啰哩啰嗦是本站的两大特点。
+* 你好，我是周锦涛
+* 好多公司正在招聘，我也来写一份简历，说做就做
 *
 * 这是我的一份简历，请看！
 */
@@ -129,7 +128,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `nowfitness
+        fullMarkdown: `周锦涛
 ----
 
 程序猿、健身爱好者
@@ -149,17 +148,20 @@ html{
 1. 2017-2018学年第一学期学院三等奖学金
 2. 2017-2018学年第二学期学院三等奖学金
 3. 2018-2019学年第二学期学院三等奖学金
-4. 大学一直参加志愿者活动，荣获“优秀志愿者”
-5. 取得CET4全国大学生英语四级考试证书，具有良好的听说读写能力 
+4. 2019-2020学年第一学期学院三等奖学金
+5. 大学一直参加志愿者活动，荣获“优秀志愿者”
+6. 取得CET4全国大学生英语四级考试证书，具有良好的听说读写能力 
 
 链接
 ----
 
 * [bilibili](https://space.bilibili.com/292018435)
-* [我的博客](https://nowfitness.top)
+* [我的博客](https://www.nowfitness.top/)
+* [个人作品集](http://zjt.nowfitness.top/)
 
 > 未完待续，
- 欢迎[与我交流](https://nowfitness.top)，谢谢观看！[Inspired by] (http://strml.net/)
+ 欢迎[与我交流](mailto:1352215207@qq.com)，谢谢观看！[Inspired by] (http://strml.net/)
+
 
 
 `
