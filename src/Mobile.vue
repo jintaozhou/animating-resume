@@ -157,18 +157,19 @@ html{
 
 * 2020.3      简约在线留言板项目
     这是今年学习php中关于连接数据库的一些操作时写的练手项目。
-    项目预览地址 [www.fitnesscoder.top/message/](www.fitnesscoder.top/message/)
+    项目预览地址 [www.fitnesscoder.top/message/](http://www.fitnesscoder.top/message/)
+    项目已开源 地址[github.com/jintaozhou/PHP-Message](https://github.com/jintaozhou/PHP-Message)
 * 2020.4       宠物商城项目
     这是一个老师带着练习的项目，熟悉网站开发的过程，包括前端的制作、数据库的设计以及后台的开发等。 
-    项目已经部署，预览地址[www.fitnesscoder.top/petshop/](www.fitnesscoder.top/petshop/)
+    项目已经部署，预览地址[www.fitnesscoder.top/petshop/](http://www.fitnesscoder.top/petshop/)
+    项目已开源 地址[github.com/jintaozhou/petshop](https://github.com/jintaozhou/petshop)
 * 2020.5-2020.6    Amado北欧家具商城网站项目
     这是我大三下学期结束课程设计，前端基于bootstrap,界面时尚美观。简洁的后台，管理商品、规格属性
     以及前内内容等功能基于php+mysql。丰富多样功能，搜索、购物车、订单等。完整购物流程，多端支持，
-    适配不同客户端用户使用。
-    项目已经部署。
-    项目预览地址 [www.fitnesscoder.top/amado/](www.fitnesscoder.top/amado/)，
-    视频讲解 [www.bilibili.com/video/BV1M54y1z7K5/](www.bilibili.com/video/BV1M54y1z7K5/) 
-    源码https://github.com/jintaozhou/Amado-Shopping-mall-website
+    适配不同客户端用户使用，项目已经部署。
+    项目预览地址 [www.fitnesscoder.top/amado/](http://www.fitnesscoder.top/amado/)，
+    视频讲解 [www.bilibili.com/video/BV1M54y1z7K5/](https://www.bilibili.com/video/BV1M54y1z7K5/) 
+    项目已开源 地址[github.com/jintaozhou/Amado-Shopping-mall-website](https://github.com/jintaozhou/Amado-Shopping-mall-website)
 
 自我评价
 ----
@@ -184,7 +185,7 @@ html{
 ----
 
 * [bilibili](https://space.bilibili.com/292018435)
-* [个人作品集](www.fitnesscoder.top)
+* [个人作品集](http://www.fitnesscoder.top)
 
 > 未完待续，
  欢迎[与我交流](mailto:1352215207@qq.com)，谢谢观看！[Inspired by] (http://strml.net/)
