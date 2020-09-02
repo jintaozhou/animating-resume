@@ -119,7 +119,7 @@ html{
 ----
 
 程序猿、健身爱好者
-现在在青岛一所高校读大三。
+现在在青岛一所高校读大三,2021年6月毕业。
 
 主修课程
 ----
@@ -139,15 +139,44 @@ html{
 5. 大学一直参加志愿者活动，荣获“优秀志愿者”
 6. 取得CET4全国大学生英语四级考试证书，具有良好的听说读写能力 
 
-链接
+项目经历
+----
+
+* 2020.3      简约在线留言板项目
+    这是今年学习php中关于连接数据库的一些操作时写的练手项目。
+    项目预览地址 [www.fitnesscoder.top/message/](www.fitnesscoder.top/message/)
+* 2020.4       宠物商城项目
+    这是一个老师带着练习的项目，熟悉网站开发的过程，包括前端的制作、数据库的设计以及后台的开发等。 
+    项目已经部署，预览地址[www.fitnesscoder.top/petshop/](www.fitnesscoder.top/petshop/)
+* 2020.5-2020.6    Amado北欧家具商城网站项目
+    这是我大三下学期结束课程设计，前端基于bootstrap,界面时尚美观。简洁的后台，管理商品、规格属性
+    以及前内内容等功能基于php+mysql。丰富多样功能，搜索、购物车、订单等。完整购物流程，多端支持，
+    适配不同客户端用户使用。
+    项目已经部署。
+    项目预览地址 [www.fitnesscoder.top/amado/](www.fitnesscoder.top/amado/)，
+    视频讲解 [www.bilibili.com/video/BV1M54y1z7K5/](www.bilibili.com/video/BV1M54y1z7K5/) 
+    源码https://github.com/jintaozhou/Amado-Shopping-mall-website
+
+自我评价
+----
+
+1. 在大学学习生活过程中，对新鲜知识、事物的学习比较快。
+2. 对互联网产品和技术有浓厚的兴趣，热衷于追求技术极致与创新。
+3. 性格开朗，有耐心，不乱发脾气，责任心强，肯吃苦耐劳。
+4. 具有良好的沟通能力、良好的团队合作精神，缺点是内心柔软，容易感情用事。
+5. 比较自律，喜欢运动健身，有两年健身经验，对健身知识有一定的了解。
+
+
+社交平台
 ----
 
 * [bilibili](https://space.bilibili.com/292018435)
-* [我的博客](https://www.nowfitness.top/)
-* [个人作品集](http://zjt.nowfitness.top/)
+* [个人作品集](www.fitnesscoder.top)
 
 > 未完待续，
  欢迎[与我交流](mailto:1352215207@qq.com)，谢谢观看！[Inspired by] (http://strml.net/)
+
+
 
 `
       }
