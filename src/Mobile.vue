@@ -25,7 +25,7 @@
           `/*
 *
 * 你好，我是周锦涛
-* 好多公司正在招聘，我也来写一份简历，说做就做
+* 听说贵公司正在招聘，我也来写一份简历，说做就做
 *
 * 这是我的一份简历，请看！
 */
@@ -167,7 +167,7 @@ html{
     这是我大三下学期结束课程设计，前端基于bootstrap,界面时尚美观。简洁的后台，管理商品、规格属性
     以及前内内容等功能基于php+mysql。丰富多样功能，搜索、购物车、订单等。完整购物流程，多端支持，
     适配不同客户端用户使用，项目已经部署。
-    项目预览地址 [www.fitnesscoder.top/amado/](http://www.fitnesscoder.top/amado/)，
+    项目已经部署上线，预览地址 [www.fitnesscoder.top/amado/](http://www.fitnesscoder.top/amado/)，
     视频讲解 [www.bilibili.com/video/BV1M54y1z7K5/](https://www.bilibili.com/video/BV1M54y1z7K5/) 
     项目已开源 地址[github.com/jintaozhou/Amado-Shopping-mall-website](https://github.com/jintaozhou/Amado-Shopping-mall-website)
 
@@ -183,8 +183,7 @@ html{
 社交平台&&联系方式
 ----
 
-* [bilibili] (https://space.bilibili.com/292018435)
-* [个人作品集] (http://www.fitnesscoder.top)
+* [个人作品集网站] (https://www.fitnesscoder.top)
 * [个人博客] (http://blog.fitnesscoder.top/)
 * Tel:17863960527
 * Email:1352215207@qq.com
